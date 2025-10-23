@@ -1,0 +1,92 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+
+#define NUM_REGISTROS 250
+
+int generar_puntaje_prueba(int minimo) {
+    if (minimo >= 1000) return 1000;
+    return minimo + (rand() % (1001 - minimo));
+}
+
+int generar_nem() {
+    return 100 + (rand() % 901);
+}
+
+int generar_ran(int nem_estudiante) {
+    int ran = nem_estudiante + (rand() % 51);
+    if (ran > 1000) {
+        return 1000;
+    }
+    return ran;
+}
+
+const char* obtener_colegio() {
+    static const char* colegios[] = {
+        "Colegio torreon", "Colegio sagrado corazon", "Colegio Santa Maria de Maipu",
+        "Instituto portaleano", "Colegio Pedro de Valdivia"
+    };
+    return colegios[rand() % 5];
+}
+
+int main() {
+    srand(time(NULL));
+    FILE *fp = fopen("salida.txt", "w");
+    if (fp == NULL) {
+        printf("Error: No se pudo crear el archivo 'salida.txt'.\n");
+        return 1;
+    }
+
+    // --- Generar datos para INGENIERÍA ---
+    fprintf(fp, "// --- DATOS PARA INGENIERIA ---\n");
+    fprintf(fp, "Colegio,CL,M1,M2,CI,HI,NEM,RAN\n"); // <-- Encabezado actualizado
+    for (int i = 0; i < NUM_REGISTROS; i++) {
+        int nem = generar_nem();
+        fprintf(fp, "%s,%d,%d,%d,%d,%d,%d,%d\n", // <-- 8 valores ahora
+                obtener_colegio(),
+                generar_puntaje_prueba(450), // CL
+                generar_puntaje_prueba(600), // M1
+                generar_puntaje_prueba(550), // M2
+                generar_puntaje_prueba(500), // CI
+                generar_puntaje_prueba(400), // HI (puntaje base bajo)
+                nem,
+                generar_ran(nem));
+    }
+
+    // --- Generar datos para MEDICINA ---
+    fprintf(fp, "\n// --- DATOS PARA MEDICINA ---\n");
+    fprintf(fp, "Colegio,CL,M1,M2,CI,HI,NEM,RAN\n"); // <-- Encabezado actualizado
+    for (int i = 0; i < NUM_REGISTROS; i++) {
+        int nem = generar_nem();
+        fprintf(fp, "%s,%d,%d,%d,%d,%d,%d,%d\n", // <-- 8 valores ahora
+                obtener_colegio(),
+                generar_puntaje_prueba(600), // CL
+                generar_puntaje_prueba(600), // M1
+                generar_puntaje_prueba(550), // M2
+                generar_puntaje_prueba(650), // CI
+                generar_puntaje_prueba(450), // HI (puntaje base medio)
+                nem,
+                generar_ran(nem));
+    }
+
+    // --- Generar datos para DERECHO ---
+    fprintf(fp, "\n// --- DATOS PARA DERECHO ---\n");
+    fprintf(fp, "Colegio,CL,M1,M2,CI,HI,NEM,RAN\n"); // <-- Encabezado actualizado
+    for (int i = 0; i < NUM_REGISTROS; i++) {
+        int nem = generar_nem();
+        fprintf(fp, "%s,%d,%d,%d,%d,%d,%d,%d\n", // <-- 8 valores ahora
+                obtener_colegio(),
+                generar_puntaje_prueba(650), // CL
+                generar_puntaje_prueba(500), // M1
+                generar_puntaje_prueba(400), // M2
+                generar_puntaje_prueba(400), // CI
+                generar_puntaje_prueba(650), // HI (puntaje base alto)
+                nem,
+                generar_ran(nem));
+    }
+
+    fclose(fp);
+    printf("Archivo 'salida.txt' generado con éxito, incluyendo puntajes de Historia.\n");
+    return 0;
+}
