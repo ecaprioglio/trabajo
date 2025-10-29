@@ -1,0 +1,758 @@
+// --- DATOS PARA INGENIERIA ---
+Colegio,CL,M1,M2,CI,HI,NEM,RAN
+Colegio Santa Maria de Maipu,790,650,843,543,877,296,309
+Colegio Pedro de Valdivia,486,781,833,541,814,699,710
+Colegio Pedro de Valdivia,690,642,551,700,854,373,421
+Colegio Pedro de Valdivia,879,669,703,554,797,205,250
+Colegio sagrado corazon,610,811,882,957,570,203,248
+Colegio torreon,601,634,711,655,889,114,135
+Colegio Santa Maria de Maipu,931,819,802,568,906,465,466
+Colegio torreon,962,716,832,928,856,750,762
+Colegio torreon,787,869,551,514,877,211,242
+Colegio sagrado corazon,771,808,733,771,894,199,226
+Colegio Pedro de Valdivia,490,618,672,583,410,451,484
+Colegio sagrado corazon,685,750,729,660,604,464,505
+Colegio sagrado corazon,754,965,901,790,945,430,480
+Colegio sagrado corazon,849,778,726,768,997,236,261
+Colegio sagrado corazon,471,761,583,996,456,274,304
+Instituto portaleano,826,925,580,592,919,297,317
+Colegio sagrado corazon,970,732,552,700,686,406,446
+Colegio Santa Maria de Maipu,719,850,895,625,501,409,438
+Colegio sagrado corazon,610,789,850,647,569,982,1000
+Instituto portaleano,778,810,836,702,662,526,540
+Colegio Pedro de Valdivia,817,812,812,897,809,977,1000
+Colegio Santa Maria de Maipu,535,923,858,691,591,900,939
+Colegio Pedro de Valdivia,773,779,938,956,627,364,369
+Colegio Santa Maria de Maipu,570,657,912,875,919,566,590
+Colegio sagrado corazon,517,643,978,712,642,441,451
+Colegio sagrado corazon,644,828,864,858,880,331,345
+Instituto portaleano,660,913,802,924,636,866,908
+Colegio torreon,961,616,656,721,511,548,598
+Colegio torreon,683,602,681,634,755,276,310
+Instituto portaleano,480,966,714,958,790,371,410
+Colegio Pedro de Valdivia,631,948,604,630,415,863,902
+Colegio Pedro de Valdivia,973,822,933,681,787,741,786
+Instituto portaleano,975,878,991,713,446,766,804
+Colegio sagrado corazon,829,990,972,818,803,344,375
+Instituto portaleano,529,834,809,721,968,853,878
+Colegio Santa Maria de Maipu,947,907,684,683,608,971,986
+Colegio Pedro de Valdivia,703,856,663,991,445,709,749
+Instituto portaleano,983,992,788,647,715,389,432
+Colegio Pedro de Valdivia,618,999,881,731,673,721,754
+Colegio Santa Maria de Maipu,989,687,876,966,543,262,301
+Colegio Santa Maria de Maipu,916,601,593,626,651,962,962
+Colegio torreon,815,902,896,865,421,395,398
+Colegio torreon,763,685,731,730,556,550,554
+Instituto portaleano,670,855,981,612,994,885,924
+Colegio torreon,708,662,559,551,769,408,443
+Instituto portaleano,773,899,758,616,786,899,921
+Colegio sagrado corazon,596,708,750,671,986,322,336
+Colegio torreon,777,916,712,555,442,743,752
+Colegio Santa Maria de Maipu,543,700,739,887,693,200,232
+Colegio sagrado corazon,738,947,690,940,822,694,728
+Colegio torreon,545,690,747,716,620,635,664
+Colegio torreon,927,611,782,602,961,815,850
+Colegio Pedro de Valdivia,565,697,729,642,770,564,572
+Colegio sagrado corazon,814,1000,588,720,539,327,340
+Colegio sagrado corazon,718,797,801,658,877,951,998
+Colegio Pedro de Valdivia,776,905,769,886,710,764,778
+Colegio sagrado corazon,494,744,881,879,629,506,531
+Colegio torreon,740,617,633,528,650,908,910
+Colegio torreon,523,642,829,638,769,773,781
+Colegio Pedro de Valdivia,835,632,613,971,731,229,252
+Colegio sagrado corazon,801,855,626,665,931,530,536
+Colegio Santa Maria de Maipu,588,844,666,979,537,841,869
+Colegio Santa Maria de Maipu,473,852,872,930,527,783,817
+Colegio Pedro de Valdivia,749,790,856,749,690,623,660
+Instituto portaleano,659,797,652,623,501,997,1000
+Instituto portaleano,617,849,901,592,913,175,210
+Colegio torreon,764,621,951,861,652,323,370
+Colegio Santa Maria de Maipu,504,856,868,675,978,555,583
+Colegio sagrado corazon,696,622,716,864,782,369,399
+Colegio Pedro de Valdivia,555,707,690,992,722,416,420
+Colegio torreon,508,831,691,815,933,614,616
+Colegio torreon,670,885,682,743,880,999,1000
+Colegio sagrado corazon,812,763,684,844,694,620,644
+Colegio Pedro de Valdivia,753,627,996,738,749,319,344
+Instituto portaleano,588,765,840,595,483,871,910
+Instituto portaleano,871,621,736,768,518,179,215
+Instituto portaleano,458,921,972,640,995,636,664
+Colegio Pedro de Valdivia,507,704,854,990,941,519,545
+Colegio Pedro de Valdivia,506,710,613,899,997,266,288
+Colegio Pedro de Valdivia,889,692,631,538,627,362,403
+Colegio Pedro de Valdivia,934,875,902,990,818,685,734
+Colegio sagrado corazon,674,922,984,710,899,990,1000
+Colegio torreon,577,632,705,692,481,958,966
+Colegio Pedro de Valdivia,854,968,703,515,968,440,489
+Instituto portaleano,783,850,762,854,897,301,318
+Colegio Santa Maria de Maipu,519,676,642,606,575,561,589
+Colegio torreon,667,614,716,590,543,851,874
+Colegio Santa Maria de Maipu,787,888,895,753,603,592,629
+Colegio Pedro de Valdivia,721,837,759,568,776,513,542
+Instituto portaleano,487,766,721,656,606,940,967
+Instituto portaleano,618,896,951,814,914,123,157
+Colegio Santa Maria de Maipu,996,847,947,599,674,339,361
+Instituto portaleano,540,799,887,966,974,247,282
+Colegio Santa Maria de Maipu,937,988,586,810,945,729,756
+Colegio Pedro de Valdivia,679,735,752,1000,843,500,520
+Colegio sagrado corazon,574,954,716,831,996,406,418
+Colegio Pedro de Valdivia,539,649,802,600,732,615,658
+Colegio sagrado corazon,846,798,593,748,605,503,513
+Colegio torreon,794,637,676,592,599,262,267
+Colegio sagrado corazon,970,633,621,863,653,989,1000
+Colegio torreon,701,622,819,709,545,589,622
+Colegio sagrado corazon,562,765,756,826,592,629,665
+Colegio Pedro de Valdivia,525,806,957,643,537,214,218
+Colegio sagrado corazon,523,809,890,776,435,408,442
+Colegio torreon,516,614,998,747,401,691,705
+Colegio sagrado corazon,594,706,656,806,574,347,373
+Instituto portaleano,959,776,925,501,621,166,178
+Colegio Santa Maria de Maipu,531,921,786,655,659,969,1000
+Colegio sagrado corazon,615,795,886,813,828,460,462
+Colegio Pedro de Valdivia,650,816,558,504,934,194,241
+Colegio Pedro de Valdivia,580,884,579,766,592,430,431
+Colegio torreon,894,774,717,873,681,955,958
+Colegio sagrado corazon,722,612,877,645,921,182,217
+Colegio Santa Maria de Maipu,905,871,944,951,781,642,687
+Instituto portaleano,951,978,924,950,480,309,334
+Colegio sagrado corazon,814,965,899,648,774,195,224
+Colegio Pedro de Valdivia,917,701,842,711,629,598,639
+Colegio torreon,800,836,966,780,885,400,431
+Colegio sagrado corazon,734,603,857,613,498,560,581
+Instituto portaleano,685,738,666,991,474,237,253
+Colegio Pedro de Valdivia,884,746,808,848,745,825,859
+Colegio sagrado corazon,647,648,907,722,407,243,276
+Colegio Pedro de Valdivia,766,751,681,704,517,677,718
+Colegio Pedro de Valdivia,710,799,555,945,525,706,740
+Colegio Pedro de Valdivia,996,659,875,533,900,819,834
+Instituto portaleano,525,938,881,503,682,417,443
+Colegio torreon,609,858,777,872,848,209,230
+Colegio Pedro de Valdivia,587,943,599,553,987,628,662
+Colegio Santa Maria de Maipu,931,933,728,886,741,690,709
+Instituto portaleano,919,737,920,713,943,703,708
+Colegio Pedro de Valdivia,866,924,698,913,660,877,911
+Colegio Santa Maria de Maipu,851,735,997,925,540,566,585
+Colegio Pedro de Valdivia,546,824,954,999,536,850,873
+Instituto portaleano,540,967,550,819,483,187,199
+Colegio Santa Maria de Maipu,550,740,936,545,721,178,184
+Colegio Santa Maria de Maipu,950,677,848,839,653,231,254
+Colegio torreon,791,778,992,928,686,412,427
+Colegio Pedro de Valdivia,664,709,950,839,944,452,460
+Colegio Santa Maria de Maipu,453,833,893,876,959,596,602
+Instituto portaleano,961,901,845,582,759,442,449
+Colegio Pedro de Valdivia,516,896,943,576,510,396,405
+Colegio Pedro de Valdivia,1000,799,686,770,940,365,397
+Colegio Pedro de Valdivia,641,813,743,627,959,400,448
+Colegio torreon,945,626,697,597,707,567,576
+Colegio Pedro de Valdivia,621,911,552,713,428,694,697
+Colegio sagrado corazon,701,690,907,756,634,510,510
+Instituto portaleano,832,691,633,786,728,699,731
+Colegio Santa Maria de Maipu,835,927,729,528,899,729,729
+Colegio Santa Maria de Maipu,682,937,909,948,626,640,643
+Colegio Santa Maria de Maipu,927,629,601,667,875,193,203
+Colegio Santa Maria de Maipu,979,765,722,856,950,186,219
+Colegio torreon,687,907,744,529,441,572,618
+Instituto portaleano,688,739,912,971,407,257,292
+Instituto portaleano,949,724,649,603,773,716,718
+Colegio Santa Maria de Maipu,804,767,846,595,486,265,312
+Colegio Santa Maria de Maipu,772,934,568,820,824,121,134
+Instituto portaleano,959,663,841,902,793,200,233
+Colegio Santa Maria de Maipu,900,699,761,924,442,483,497
+Instituto portaleano,556,764,848,667,587,124,135
+Colegio Pedro de Valdivia,837,623,731,669,918,492,537
+Colegio Santa Maria de Maipu,657,798,871,792,536,743,778
+Colegio Santa Maria de Maipu,845,645,870,725,523,602,616
+Colegio Santa Maria de Maipu,674,834,824,932,655,316,335
+Colegio Santa Maria de Maipu,783,702,825,597,775,375,393
+Colegio Santa Maria de Maipu,594,622,686,939,406,860,902
+Instituto portaleano,652,921,977,662,992,908,913
+Colegio sagrado corazon,564,738,756,505,653,621,629
+Colegio Santa Maria de Maipu,481,796,633,667,818,667,671
+Instituto portaleano,795,873,960,791,841,951,990
+Colegio sagrado corazon,722,788,675,735,640,334,380
+Colegio sagrado corazon,460,604,896,573,969,560,596
+Colegio sagrado corazon,788,962,919,852,847,873,906
+Instituto portaleano,641,652,576,733,682,556,567
+Instituto portaleano,671,808,842,851,863,588,624
+Instituto portaleano,730,808,885,608,771,452,484
+Colegio torreon,711,897,701,804,876,637,665
+Instituto portaleano,513,722,597,847,407,430,466
+Colegio Santa Maria de Maipu,662,639,715,879,596,515,565
+Colegio Santa Maria de Maipu,599,782,725,905,552,420,450
+Instituto portaleano,700,664,608,734,762,529,551
+Instituto portaleano,677,839,599,702,677,957,985
+Colegio sagrado corazon,800,963,836,538,514,208,222
+Colegio Santa Maria de Maipu,818,694,732,751,693,900,917
+Colegio torreon,712,698,946,608,494,844,868
+Colegio Pedro de Valdivia,608,735,740,860,795,688,734
+Colegio Santa Maria de Maipu,575,912,663,541,911,374,388
+Instituto portaleano,899,827,579,858,999,776,793
+Colegio Santa Maria de Maipu,566,629,780,999,965,326,376
+Colegio Santa Maria de Maipu,741,821,913,639,535,189,209
+Colegio Santa Maria de Maipu,554,830,836,748,535,366,370
+Colegio Pedro de Valdivia,707,781,903,714,531,570,599
+Instituto portaleano,839,857,764,553,444,258,290
+Colegio sagrado corazon,689,658,616,975,488,766,816
+Colegio torreon,468,867,576,904,984,492,511
+Colegio sagrado corazon,714,831,656,593,867,632,649
+Instituto portaleano,666,977,729,597,584,751,797
+Colegio Pedro de Valdivia,452,805,966,635,939,762,764
+Colegio torreon,702,965,851,785,817,574,602
+Instituto portaleano,464,783,586,680,479,459,467
+Instituto portaleano,992,778,819,864,930,835,854
+Colegio sagrado corazon,748,926,720,996,410,459,461
+Instituto portaleano,828,646,692,516,523,650,672
+Instituto portaleano,981,979,962,1000,490,112,144
+Colegio Pedro de Valdivia,992,680,887,506,911,330,357
+Colegio sagrado corazon,484,862,953,842,762,953,959
+Colegio sagrado corazon,868,974,618,948,583,370,394
+Instituto portaleano,981,732,791,696,452,962,993
+Instituto portaleano,494,667,598,911,829,967,1000
+Colegio Santa Maria de Maipu,680,833,750,890,777,231,241
+Colegio Santa Maria de Maipu,575,993,759,722,850,335,335
+Colegio Pedro de Valdivia,627,877,677,922,880,252,272
+Instituto portaleano,812,669,645,679,531,851,861
+Colegio Pedro de Valdivia,736,718,747,570,874,859,886
+Colegio sagrado corazon,887,655,808,616,728,303,337
+Instituto portaleano,633,640,769,731,494,128,166
+Colegio torreon,818,991,857,551,904,374,381
+Colegio sagrado corazon,891,603,648,908,980,900,929
+Colegio sagrado corazon,516,605,982,548,475,452,479
+Instituto portaleano,707,625,910,835,624,399,430
+Colegio torreon,971,814,558,639,764,956,1000
+Colegio Pedro de Valdivia,845,637,998,736,969,665,678
+Colegio Santa Maria de Maipu,732,616,974,572,860,655,658
+Colegio Pedro de Valdivia,764,675,571,985,811,517,518
+Colegio sagrado corazon,539,826,714,674,503,257,264
+Colegio sagrado corazon,919,720,990,623,452,531,560
+Instituto portaleano,699,645,891,514,415,433,483
+Colegio sagrado corazon,826,730,621,848,907,583,588
+Colegio sagrado corazon,573,782,919,820,504,805,837
+Colegio Santa Maria de Maipu,686,627,556,504,546,432,481
+Instituto portaleano,748,979,827,608,848,730,759
+Instituto portaleano,830,964,696,844,608,682,732
+Colegio sagrado corazon,796,854,813,739,672,864,874
+Colegio Santa Maria de Maipu,516,977,826,980,401,558,579
+Colegio sagrado corazon,505,912,665,998,645,377,379
+Colegio Santa Maria de Maipu,982,734,679,573,728,574,595
+Colegio sagrado corazon,967,928,945,628,471,638,686
+Instituto portaleano,637,861,847,772,601,889,926
+Colegio Pedro de Valdivia,580,792,718,716,600,732,777
+Colegio Pedro de Valdivia,563,986,777,794,663,765,794
+Colegio sagrado corazon,920,965,565,851,836,578,593
+Colegio sagrado corazon,463,746,683,770,626,258,286
+Colegio Pedro de Valdivia,670,836,835,842,514,378,415
+Colegio torreon,741,653,663,929,434,816,862
+Colegio sagrado corazon,764,927,732,826,419,548,567
+Instituto portaleano,667,606,711,573,761,864,875
+Colegio Santa Maria de Maipu,515,796,787,881,593,155,155
+Colegio torreon,817,827,856,646,736,863,903
+Colegio Santa Maria de Maipu,900,921,824,922,991,255,293
+Colegio sagrado corazon,760,705,966,550,637,994,998
+Colegio Pedro de Valdivia,541,627,874,604,464,852,858
+
+// --- DATOS PARA MEDICINA ---
+Colegio,CL,M1,M2,CI,HI,NEM,RAN
+Colegio torreon,711,846,756,818,471,771,807
+Colegio Santa Maria de Maipu,637,786,816,810,545,704,708
+Colegio torreon,882,794,560,736,683,573,574
+Instituto portaleano,866,987,953,918,964,219,256
+Colegio sagrado corazon,826,884,692,885,776,628,637
+Colegio Santa Maria de Maipu,834,821,596,670,832,667,713
+Colegio Pedro de Valdivia,845,688,867,908,542,711,724
+Colegio Santa Maria de Maipu,604,813,990,688,751,827,866
+Colegio sagrado corazon,846,799,761,947,637,115,144
+Instituto portaleano,898,622,934,981,631,879,879
+Colegio torreon,644,784,779,777,482,320,348
+Colegio Santa Maria de Maipu,608,937,686,993,675,706,725
+Instituto portaleano,752,659,933,793,916,700,722
+Colegio torreon,968,855,852,936,716,465,498
+Instituto portaleano,678,981,585,763,788,708,736
+Colegio sagrado corazon,944,691,863,892,509,871,908
+Colegio sagrado corazon,606,863,569,862,626,768,798
+Colegio Pedro de Valdivia,795,799,994,653,734,882,925
+Colegio Pedro de Valdivia,642,704,593,785,679,537,554
+Colegio Santa Maria de Maipu,902,746,634,958,461,701,735
+Instituto portaleano,947,762,998,962,477,723,745
+Colegio sagrado corazon,678,914,685,721,579,983,987
+Colegio sagrado corazon,899,776,681,947,867,611,660
+Instituto portaleano,890,855,983,726,931,228,269
+Colegio torreon,915,759,596,774,938,243,263
+Instituto portaleano,898,603,996,759,483,406,441
+Colegio sagrado corazon,912,671,649,776,618,930,931
+Instituto portaleano,840,833,789,709,602,263,281
+Colegio Santa Maria de Maipu,993,646,683,947,666,884,897
+Colegio Santa Maria de Maipu,823,965,651,904,598,942,990
+Instituto portaleano,928,959,976,743,917,864,877
+Colegio Pedro de Valdivia,814,968,874,843,645,891,901
+Colegio Pedro de Valdivia,937,993,815,856,691,497,525
+Instituto portaleano,820,622,816,667,567,773,815
+Instituto portaleano,940,944,893,835,596,543,587
+Colegio Santa Maria de Maipu,727,929,716,655,477,759,799
+Colegio Pedro de Valdivia,792,659,774,921,838,957,975
+Colegio Santa Maria de Maipu,604,786,640,877,513,588,592
+Colegio Santa Maria de Maipu,952,890,961,857,612,804,824
+Colegio Santa Maria de Maipu,709,643,832,711,562,915,953
+Colegio Pedro de Valdivia,890,975,943,848,646,742,764
+Colegio sagrado corazon,890,716,947,662,816,990,1000
+Colegio sagrado corazon,962,623,592,777,534,598,631
+Colegio Santa Maria de Maipu,824,912,787,739,782,474,518
+Colegio Santa Maria de Maipu,791,782,743,983,891,856,864
+Colegio sagrado corazon,860,797,872,986,828,348,377
+Instituto portaleano,996,751,881,874,714,875,876
+Colegio Pedro de Valdivia,627,898,883,896,601,567,577
+Colegio sagrado corazon,860,934,929,793,795,448,456
+Colegio Santa Maria de Maipu,714,865,804,771,936,330,346
+Instituto portaleano,720,953,720,678,491,117,131
+Colegio Pedro de Valdivia,988,966,860,859,486,788,816
+Instituto portaleano,639,958,615,952,547,180,181
+Colegio Pedro de Valdivia,898,825,564,698,736,940,977
+Colegio Pedro de Valdivia,998,682,626,860,673,837,851
+Colegio Santa Maria de Maipu,759,755,618,943,729,276,296
+Colegio sagrado corazon,933,898,967,833,892,249,268
+Instituto portaleano,894,716,993,707,771,996,1000
+Instituto portaleano,814,632,968,722,801,751,778
+Colegio torreon,829,708,886,857,514,382,404
+Instituto portaleano,856,747,573,877,856,185,193
+Colegio sagrado corazon,667,685,792,699,554,468,511
+Colegio sagrado corazon,746,615,984,825,895,185,208
+Instituto portaleano,737,673,642,934,472,739,743
+Colegio Santa Maria de Maipu,784,975,717,906,841,606,607
+Colegio Pedro de Valdivia,739,872,834,781,812,177,184
+Colegio Pedro de Valdivia,671,666,841,789,813,463,490
+Colegio Pedro de Valdivia,981,600,568,974,542,169,175
+Colegio sagrado corazon,600,789,980,906,662,298,300
+Colegio sagrado corazon,784,853,593,909,857,252,272
+Colegio Santa Maria de Maipu,636,857,927,726,945,427,477
+Colegio Pedro de Valdivia,857,750,684,893,832,116,161
+Colegio Santa Maria de Maipu,955,655,944,757,769,239,248
+Colegio sagrado corazon,901,678,1000,766,603,787,803
+Colegio torreon,911,708,802,970,597,868,918
+Colegio torreon,793,817,810,759,876,102,149
+Instituto portaleano,764,900,696,655,989,258,287
+Colegio sagrado corazon,733,810,952,659,771,856,877
+Colegio torreon,938,764,589,757,652,681,722
+Colegio sagrado corazon,962,723,561,980,517,710,746
+Colegio torreon,868,689,899,882,753,292,313
+Colegio sagrado corazon,995,997,904,687,529,802,819
+Colegio Pedro de Valdivia,761,689,720,650,790,563,577
+Colegio Santa Maria de Maipu,770,630,694,848,578,486,524
+Colegio sagrado corazon,926,779,954,729,882,696,717
+Instituto portaleano,603,830,846,955,538,654,699
+Colegio sagrado corazon,857,994,685,749,727,136,140
+Instituto portaleano,761,689,866,901,855,803,853
+Colegio Pedro de Valdivia,634,860,702,866,612,957,988
+Colegio torreon,753,813,610,768,980,838,878
+Colegio Santa Maria de Maipu,755,860,810,700,530,964,996
+Colegio Pedro de Valdivia,716,956,794,709,466,863,868
+Colegio sagrado corazon,917,924,584,700,585,968,1000
+Colegio torreon,656,813,631,912,568,987,1000
+Colegio torreon,922,936,596,679,833,872,897
+Instituto portaleano,673,699,760,660,655,155,189
+Colegio sagrado corazon,764,674,553,982,876,383,407
+Colegio Santa Maria de Maipu,758,673,981,932,937,248,289
+Colegio Pedro de Valdivia,882,927,688,833,586,390,413
+Colegio Santa Maria de Maipu,927,946,772,888,712,911,927
+Colegio sagrado corazon,858,782,616,688,596,376,379
+Instituto portaleano,687,682,807,981,986,514,524
+Colegio torreon,697,919,966,937,616,653,676
+Instituto portaleano,758,722,905,807,663,231,280
+Instituto portaleano,768,943,687,664,783,635,666
+Colegio Santa Maria de Maipu,631,906,833,844,866,823,828
+Colegio sagrado corazon,612,815,959,966,602,759,803
+Colegio torreon,870,891,655,996,697,317,348
+Colegio Pedro de Valdivia,945,746,966,850,797,186,226
+Colegio Pedro de Valdivia,901,629,718,673,752,762,788
+Instituto portaleano,961,758,917,886,795,164,180
+Colegio torreon,828,949,555,992,923,292,293
+Colegio torreon,775,961,577,953,466,691,730
+Instituto portaleano,892,650,969,898,688,917,935
+Instituto portaleano,788,947,559,875,499,421,457
+Colegio Santa Maria de Maipu,825,622,583,775,584,349,388
+Colegio torreon,822,954,722,915,981,318,339
+Colegio Santa Maria de Maipu,860,793,908,874,934,712,757
+Colegio torreon,612,751,837,652,592,871,889
+Colegio torreon,791,908,826,910,751,822,861
+Colegio Santa Maria de Maipu,800,787,831,929,993,959,1000
+Instituto portaleano,666,606,919,971,693,924,929
+Colegio Pedro de Valdivia,868,869,552,906,631,881,886
+Colegio Pedro de Valdivia,802,766,895,700,480,182,229
+Colegio sagrado corazon,605,628,632,765,784,530,575
+Colegio Santa Maria de Maipu,668,933,866,904,835,569,608
+Colegio sagrado corazon,954,818,839,913,749,515,559
+Colegio Santa Maria de Maipu,984,912,611,762,634,403,410
+Colegio Santa Maria de Maipu,695,812,815,955,638,335,358
+Colegio Pedro de Valdivia,628,603,938,664,683,246,286
+Colegio Pedro de Valdivia,736,875,964,780,613,369,415
+Colegio torreon,714,864,766,865,548,976,1000
+Colegio Pedro de Valdivia,688,776,712,840,949,791,806
+Colegio Pedro de Valdivia,731,795,982,890,581,925,939
+Colegio torreon,659,863,671,879,998,272,281
+Colegio torreon,627,999,612,696,505,468,503
+Colegio Santa Maria de Maipu,681,781,726,652,822,300,327
+Colegio Pedro de Valdivia,826,637,666,924,798,775,794
+Colegio torreon,617,916,950,719,849,537,582
+Colegio sagrado corazon,803,738,656,797,492,642,688
+Colegio torreon,772,918,769,925,651,763,784
+Colegio Santa Maria de Maipu,810,628,686,928,584,692,698
+Instituto portaleano,895,711,646,807,829,474,492
+Colegio Santa Maria de Maipu,741,983,604,891,821,435,438
+Colegio Santa Maria de Maipu,605,709,840,954,796,924,971
+Colegio torreon,743,694,652,788,681,156,180
+Instituto portaleano,856,810,976,757,999,271,302
+Instituto portaleano,653,985,640,935,941,632,660
+Colegio Santa Maria de Maipu,883,927,812,909,834,747,776
+Colegio sagrado corazon,957,846,974,977,754,763,783
+Colegio Santa Maria de Maipu,993,940,862,869,648,761,789
+Colegio Pedro de Valdivia,896,904,892,715,459,308,325
+Colegio Pedro de Valdivia,659,781,672,890,781,843,893
+Colegio sagrado corazon,885,750,928,818,520,109,131
+Colegio sagrado corazon,716,818,884,730,827,170,190
+Instituto portaleano,828,911,825,692,467,189,199
+Instituto portaleano,882,625,868,914,658,592,607
+Colegio sagrado corazon,868,969,876,771,506,863,900
+Colegio sagrado corazon,615,927,651,863,586,489,518
+Colegio Santa Maria de Maipu,976,691,711,892,550,389,428
+Colegio Santa Maria de Maipu,958,680,819,743,737,195,210
+Colegio Santa Maria de Maipu,716,823,975,995,763,958,974
+Colegio torreon,605,659,882,698,720,870,903
+Colegio Pedro de Valdivia,735,901,674,952,980,385,405
+Colegio torreon,747,677,928,835,596,415,460
+Colegio sagrado corazon,761,889,644,746,584,768,813
+Colegio sagrado corazon,991,747,984,775,975,979,1000
+Colegio torreon,641,623,993,916,582,116,133
+Colegio Pedro de Valdivia,657,793,940,890,952,540,582
+Colegio torreon,747,950,949,728,674,503,511
+Colegio Santa Maria de Maipu,667,622,721,777,642,415,434
+Instituto portaleano,606,617,983,813,946,784,823
+Instituto portaleano,609,695,711,775,918,782,809
+Colegio torreon,807,652,994,749,649,659,671
+Colegio Santa Maria de Maipu,664,646,724,984,735,913,947
+Colegio torreon,617,890,889,710,870,727,745
+Instituto portaleano,907,605,854,963,586,946,987
+Instituto portaleano,899,722,829,920,972,649,696
+Colegio sagrado corazon,991,899,899,866,552,399,405
+Colegio sagrado corazon,830,875,964,820,996,877,916
+Colegio torreon,747,616,593,960,640,808,846
+Colegio Pedro de Valdivia,635,883,841,734,910,369,383
+Colegio sagrado corazon,747,892,945,739,891,570,605
+Colegio Pedro de Valdivia,618,953,879,825,825,853,867
+Instituto portaleano,910,642,827,772,972,472,489
+Colegio Pedro de Valdivia,700,888,918,782,547,878,902
+Colegio torreon,873,772,554,781,643,576,611
+Colegio torreon,899,705,969,852,818,482,516
+Colegio Santa Maria de Maipu,642,663,738,757,942,962,1000
+Colegio sagrado corazon,920,770,804,889,744,346,353
+Colegio sagrado corazon,658,767,833,672,841,199,225
+Colegio sagrado corazon,866,700,954,665,916,859,888
+Instituto portaleano,696,988,613,788,747,506,511
+Colegio Pedro de Valdivia,849,759,833,653,607,866,882
+Colegio torreon,846,604,731,964,786,377,396
+Colegio torreon,914,761,829,769,553,992,1000
+Colegio Santa Maria de Maipu,962,847,582,956,736,942,982
+Colegio Santa Maria de Maipu,895,907,873,668,488,101,128
+Colegio Pedro de Valdivia,824,963,788,836,562,483,519
+Colegio Pedro de Valdivia,636,647,959,1000,552,962,980
+Colegio sagrado corazon,685,616,917,886,921,968,982
+Instituto portaleano,814,668,872,899,709,704,752
+Colegio torreon,663,785,813,917,482,312,331
+Colegio Santa Maria de Maipu,884,964,561,881,992,780,826
+Instituto portaleano,680,901,841,685,937,961,993
+Colegio Santa Maria de Maipu,809,834,926,666,498,870,880
+Colegio sagrado corazon,832,983,994,904,919,755,798
+Colegio sagrado corazon,686,846,660,853,471,169,178
+Instituto portaleano,800,622,956,658,530,943,971
+Colegio Pedro de Valdivia,958,652,841,737,904,651,671
+Colegio sagrado corazon,885,813,967,864,563,128,141
+Colegio Pedro de Valdivia,890,680,797,870,905,764,778
+Instituto portaleano,607,817,884,819,522,876,890
+Instituto portaleano,801,659,916,658,513,229,236
+Colegio torreon,711,743,1000,706,749,564,575
+Colegio sagrado corazon,843,624,646,670,853,502,539
+Colegio Santa Maria de Maipu,838,992,684,697,947,833,853
+Colegio torreon,629,775,883,684,479,458,465
+Colegio Santa Maria de Maipu,819,665,627,967,994,629,651
+Colegio torreon,715,618,929,694,784,491,516
+Colegio sagrado corazon,847,723,693,819,728,113,158
+Instituto portaleano,675,705,970,919,801,179,211
+Colegio torreon,678,731,853,883,724,972,993
+Colegio torreon,806,824,796,778,754,105,123
+Colegio Pedro de Valdivia,965,629,741,843,752,141,144
+Colegio sagrado corazon,693,628,987,972,859,755,801
+Colegio sagrado corazon,767,840,664,737,765,428,434
+Instituto portaleano,961,762,895,675,895,738,755
+Colegio torreon,878,822,916,751,695,811,835
+Colegio Pedro de Valdivia,863,861,936,972,690,666,675
+Instituto portaleano,751,983,588,893,947,434,441
+Instituto portaleano,915,743,928,974,666,373,373
+Colegio Santa Maria de Maipu,750,983,668,888,558,247,254
+Instituto portaleano,804,608,639,964,461,184,209
+Instituto portaleano,908,869,929,668,972,162,168
+Colegio Pedro de Valdivia,746,755,916,935,599,564,573
+Instituto portaleano,922,691,722,915,898,198,207
+Colegio Santa Maria de Maipu,808,800,559,669,536,795,807
+Colegio sagrado corazon,870,617,775,981,885,593,624
+Colegio torreon,743,747,818,693,884,824,870
+Colegio torreon,856,978,939,693,510,654,666
+Colegio torreon,627,712,763,764,739,386,419
+Colegio torreon,929,845,859,735,800,394,439
+Colegio sagrado corazon,679,651,890,870,683,585,605
+Colegio torreon,907,814,952,783,488,388,423
+Colegio torreon,942,695,753,765,978,439,478
+Colegio torreon,716,819,605,717,795,471,481
+Colegio torreon,879,785,994,878,796,874,910
+Instituto portaleano,831,661,934,981,718,906,944
+Instituto portaleano,920,981,808,935,816,571,587
+
+// --- DATOS PARA DERECHO ---
+Colegio,CL,M1,M2,CI,HI,NEM,RAN
+Colegio sagrado corazon,744,550,721,642,658,521,522
+Instituto portaleano,952,851,520,713,954,816,848
+Colegio torreon,677,731,852,818,980,125,172
+Colegio Pedro de Valdivia,773,755,980,794,882,305,336
+Instituto portaleano,996,676,790,647,751,768,802
+Colegio sagrado corazon,960,649,873,715,770,315,328
+Instituto portaleano,695,802,757,886,886,372,385
+Colegio torreon,793,543,872,880,966,722,747
+Colegio torreon,665,628,985,411,990,305,322
+Colegio torreon,723,563,681,918,770,527,529
+Colegio Santa Maria de Maipu,988,536,455,516,927,382,409
+Colegio Pedro de Valdivia,905,728,549,859,899,826,857
+Colegio sagrado corazon,812,930,776,726,781,353,377
+Colegio sagrado corazon,753,989,896,519,696,178,208
+Colegio Santa Maria de Maipu,865,818,727,957,759,470,487
+Colegio torreon,817,860,876,952,741,536,552
+Instituto portaleano,651,579,716,838,943,280,284
+Colegio Santa Maria de Maipu,680,522,577,547,951,698,732
+Colegio Pedro de Valdivia,987,949,754,572,949,243,273
+Colegio Santa Maria de Maipu,840,847,628,417,930,893,925
+Colegio torreon,784,740,628,445,858,733,733
+Colegio torreon,942,913,937,401,652,767,789
+Colegio torreon,806,508,618,755,805,971,1000
+Colegio Santa Maria de Maipu,896,672,692,506,957,466,495
+Colegio torreon,967,761,833,516,672,344,369
+Colegio Santa Maria de Maipu,715,734,600,961,952,524,569
+Colegio Santa Maria de Maipu,973,877,601,829,961,979,1000
+Colegio Santa Maria de Maipu,921,740,879,684,725,375,395
+Colegio Santa Maria de Maipu,860,763,546,542,995,218,226
+Instituto portaleano,962,969,759,924,762,555,596
+Colegio Santa Maria de Maipu,760,975,705,549,734,409,414
+Colegio torreon,757,836,496,885,675,588,638
+Colegio sagrado corazon,672,813,903,695,923,646,672
+Colegio torreon,814,920,772,913,683,831,855
+Colegio sagrado corazon,813,648,793,804,775,643,674
+Colegio sagrado corazon,789,670,741,911,878,442,486
+Colegio Santa Maria de Maipu,733,552,422,882,689,886,886
+Colegio Pedro de Valdivia,742,540,940,420,902,671,718
+Instituto portaleano,914,596,537,984,835,674,716
+Colegio Pedro de Valdivia,935,678,952,409,720,610,644
+Colegio Santa Maria de Maipu,841,810,651,579,693,979,984
+Colegio torreon,718,962,570,659,783,695,698
+Instituto portaleano,989,611,472,744,727,314,343
+Colegio sagrado corazon,827,949,997,731,666,130,174
+Colegio Pedro de Valdivia,862,876,762,510,971,367,378
+Colegio Santa Maria de Maipu,968,727,708,454,731,152,194
+Colegio Pedro de Valdivia,698,951,823,488,843,309,329
+Colegio torreon,792,761,607,435,867,698,726
+Colegio Santa Maria de Maipu,764,868,761,934,877,707,721
+Colegio sagrado corazon,729,999,626,453,739,163,209
+Colegio torreon,790,986,772,432,746,805,814
+Colegio Pedro de Valdivia,976,579,702,486,701,931,950
+Colegio sagrado corazon,942,636,737,770,992,274,289
+Colegio Santa Maria de Maipu,788,718,750,546,707,911,946
+Colegio torreon,653,567,544,697,918,866,877
+Colegio Pedro de Valdivia,817,841,983,960,878,229,262
+Colegio Santa Maria de Maipu,995,928,998,943,849,844,872
+Colegio Santa Maria de Maipu,681,665,538,706,705,144,180
+Colegio Pedro de Valdivia,852,685,467,549,905,823,829
+Colegio Pedro de Valdivia,827,547,858,983,797,577,625
+Colegio Pedro de Valdivia,995,645,413,741,808,598,605
+Colegio sagrado corazon,729,968,422,579,667,680,705
+Colegio Santa Maria de Maipu,778,972,937,627,806,440,443
+Instituto portaleano,898,645,424,409,984,144,178
+Instituto portaleano,869,805,451,527,994,835,847
+Colegio Pedro de Valdivia,750,873,783,731,737,944,966
+Instituto portaleano,951,769,912,788,785,678,696
+Colegio sagrado corazon,934,595,787,915,664,870,877
+Colegio sagrado corazon,951,721,718,546,777,574,587
+Colegio Santa Maria de Maipu,992,926,466,619,677,420,436
+Colegio torreon,719,898,722,903,826,571,618
+Colegio torreon,758,864,601,547,711,704,734
+Colegio sagrado corazon,799,663,733,830,655,528,559
+Colegio Pedro de Valdivia,879,510,490,972,974,755,782
+Colegio Pedro de Valdivia,788,608,943,625,913,916,945
+Colegio torreon,811,691,424,974,759,239,283
+Colegio sagrado corazon,769,893,632,903,818,548,564
+Colegio Pedro de Valdivia,708,742,831,586,651,106,138
+Colegio sagrado corazon,880,719,842,470,779,559,595
+Colegio Pedro de Valdivia,912,593,905,856,846,395,401
+Instituto portaleano,733,514,545,591,791,753,771
+Instituto portaleano,785,836,962,989,916,654,702
+Colegio sagrado corazon,807,877,674,656,726,289,306
+Colegio torreon,979,850,767,781,726,255,261
+Colegio Santa Maria de Maipu,714,691,895,712,863,184,209
+Instituto portaleano,986,533,439,601,728,109,158
+Colegio Santa Maria de Maipu,657,756,615,833,848,419,458
+Colegio Pedro de Valdivia,989,765,488,522,765,433,435
+Colegio torreon,779,645,905,943,753,210,224
+Instituto portaleano,816,919,882,749,930,788,831
+Instituto portaleano,711,547,722,518,740,131,155
+Instituto portaleano,758,932,885,782,815,444,450
+Colegio torreon,906,714,519,694,936,168,203
+Colegio Santa Maria de Maipu,940,610,498,665,929,303,340
+Colegio Pedro de Valdivia,1000,864,924,406,981,211,231
+Colegio torreon,663,525,783,780,939,650,677
+Colegio torreon,679,895,870,453,808,240,249
+Colegio sagrado corazon,685,961,920,752,814,166,184
+Colegio torreon,716,522,977,463,858,358,359
+Instituto portaleano,982,546,882,547,995,770,807
+Instituto portaleano,856,549,860,839,793,745,770
+Colegio torreon,877,635,985,693,866,441,488
+Colegio torreon,743,916,896,608,965,641,688
+Colegio Pedro de Valdivia,698,658,1000,966,885,343,357
+Colegio Santa Maria de Maipu,848,865,486,598,851,296,304
+Colegio Santa Maria de Maipu,952,682,567,785,876,770,810
+Colegio Pedro de Valdivia,788,885,596,993,786,387,426
+Colegio Santa Maria de Maipu,822,504,614,543,764,653,699
+Colegio sagrado corazon,740,770,958,781,664,614,618
+Colegio torreon,996,811,624,865,844,879,903
+Colegio torreon,778,971,540,573,924,478,492
+Colegio Pedro de Valdivia,785,761,740,657,780,411,411
+Instituto portaleano,990,1000,614,860,911,876,918
+Instituto portaleano,854,700,444,857,659,167,206
+Colegio Pedro de Valdivia,681,656,603,503,839,136,156
+Colegio torreon,860,657,560,450,951,899,931
+Instituto portaleano,661,567,800,925,920,508,515
+Colegio Santa Maria de Maipu,929,838,617,815,810,734,778
+Colegio sagrado corazon,996,890,931,851,957,814,844
+Colegio Santa Maria de Maipu,857,815,721,633,710,807,816
+Colegio Santa Maria de Maipu,912,969,500,956,725,643,659
+Instituto portaleano,983,781,590,623,651,128,162
+Colegio sagrado corazon,755,599,874,670,920,135,156
+Colegio Pedro de Valdivia,925,879,867,830,843,922,963
+Colegio Pedro de Valdivia,830,844,570,476,697,528,541
+Colegio Santa Maria de Maipu,657,862,635,811,775,545,560
+Colegio torreon,658,949,881,866,765,970,991
+Instituto portaleano,701,890,913,697,815,215,215
+Colegio Santa Maria de Maipu,929,884,974,753,669,958,961
+Colegio Pedro de Valdivia,857,752,936,825,694,673,678
+Colegio Pedro de Valdivia,710,593,670,611,769,317,327
+Colegio sagrado corazon,762,994,436,630,979,517,549
+Colegio Pedro de Valdivia,726,599,844,437,690,197,231
+Colegio Santa Maria de Maipu,924,940,933,417,740,405,410
+Colegio torreon,870,680,743,790,738,398,422
+Colegio Pedro de Valdivia,812,886,701,913,842,367,380
+Colegio Pedro de Valdivia,674,876,486,829,681,551,598
+Colegio Pedro de Valdivia,730,967,661,946,837,404,444
+Colegio torreon,780,915,952,408,796,555,591
+Colegio torreon,850,505,563,544,864,581,623
+Instituto portaleano,776,816,930,708,784,387,434
+Colegio sagrado corazon,780,547,560,799,808,247,291
+Colegio Santa Maria de Maipu,925,503,711,522,993,407,436
+Instituto portaleano,724,978,713,906,916,684,708
+Instituto portaleano,819,920,704,796,959,954,982
+Colegio sagrado corazon,994,598,653,762,936,974,1000
+Instituto portaleano,795,723,658,543,886,324,334
+Colegio sagrado corazon,738,592,588,516,823,204,239
+Instituto portaleano,708,710,859,520,793,435,445
+Colegio Santa Maria de Maipu,722,611,514,802,802,804,818
+Colegio sagrado corazon,694,654,426,777,940,298,327
+Colegio sagrado corazon,976,524,901,963,858,517,540
+Colegio sagrado corazon,722,791,820,613,892,323,353
+Colegio Santa Maria de Maipu,812,704,972,579,739,189,234
+Instituto portaleano,709,746,561,485,999,251,267
+Colegio sagrado corazon,884,619,600,868,712,441,469
+Colegio Santa Maria de Maipu,716,564,407,832,975,274,322
+Instituto portaleano,829,725,942,450,971,937,959
+Colegio Santa Maria de Maipu,885,526,963,732,669,823,873
+Colegio sagrado corazon,744,976,930,910,756,559,566
+Colegio Santa Maria de Maipu,938,901,575,803,869,513,535
+Instituto portaleano,840,692,956,612,750,752,777
+Colegio sagrado corazon,925,866,517,884,756,701,715
+Colegio torreon,824,633,717,471,859,807,827
+Colegio sagrado corazon,963,552,899,519,871,634,680
+Instituto portaleano,829,812,777,802,773,624,667
+Colegio Pedro de Valdivia,703,907,820,678,838,624,625
+Colegio Pedro de Valdivia,681,742,580,990,958,764,804
+Colegio Santa Maria de Maipu,662,534,436,741,842,231,267
+Colegio Santa Maria de Maipu,740,518,899,906,837,392,398
+Colegio Pedro de Valdivia,796,818,658,576,724,395,435
+Colegio sagrado corazon,844,575,811,932,775,299,348
+Colegio Santa Maria de Maipu,998,901,747,732,756,474,524
+Colegio torreon,917,592,765,899,668,869,892
+Colegio sagrado corazon,977,774,771,911,921,132,166
+Colegio sagrado corazon,858,620,601,780,959,822,823
+Instituto portaleano,789,534,989,520,887,956,972
+Colegio Santa Maria de Maipu,685,765,961,585,729,873,874
+Instituto portaleano,852,518,536,555,782,584,592
+Colegio sagrado corazon,935,656,573,963,924,709,714
+Colegio sagrado corazon,976,949,521,646,764,666,675
+Colegio Pedro de Valdivia,830,924,549,437,708,239,286
+Colegio torreon,807,951,625,808,951,555,579
+Colegio torreon,722,743,739,937,820,241,287
+Colegio Santa Maria de Maipu,819,836,642,605,859,488,491
+Colegio torreon,881,690,977,940,769,865,899
+Colegio sagrado corazon,822,738,752,609,863,408,418
+Colegio torreon,723,653,836,484,863,447,470
+Colegio torreon,790,537,548,691,825,431,476
+Colegio Santa Maria de Maipu,783,628,968,791,788,776,787
+Instituto portaleano,959,824,906,723,962,907,957
+Colegio torreon,744,906,835,956,976,570,578
+Colegio sagrado corazon,756,566,707,427,679,494,519
+Colegio torreon,662,957,719,495,925,451,501
+Colegio Santa Maria de Maipu,771,800,452,852,936,504,510
+Instituto portaleano,759,614,464,610,834,863,905
+Instituto portaleano,852,849,766,804,987,682,686
+Colegio torreon,848,881,478,970,988,697,710
+Colegio Santa Maria de Maipu,834,835,462,856,652,328,350
+Colegio sagrado corazon,981,802,414,798,820,415,438
+Colegio torreon,753,701,410,797,708,686,714
+Colegio sagrado corazon,953,659,585,816,726,477,502
+Instituto portaleano,902,873,656,954,786,667,715
+Colegio Santa Maria de Maipu,818,824,654,772,982,668,691
+Colegio torreon,683,573,675,524,651,884,887
+Colegio torreon,656,947,599,714,882,832,845
+Colegio sagrado corazon,725,946,893,502,757,292,338
+Colegio sagrado corazon,703,983,952,553,663,914,943
+Colegio Pedro de Valdivia,985,598,634,982,835,212,229
+Instituto portaleano,884,685,441,859,723,440,483
+Colegio torreon,759,832,438,533,919,565,566
+Colegio torreon,887,688,784,459,719,512,524
+Colegio Pedro de Valdivia,701,958,872,664,990,507,520
+Colegio Santa Maria de Maipu,920,643,935,471,989,998,1000
+Colegio sagrado corazon,817,685,555,571,669,967,977
+Colegio Pedro de Valdivia,853,857,830,992,879,808,858
+Colegio Santa Maria de Maipu,708,510,461,834,905,416,458
+Colegio Pedro de Valdivia,809,696,616,565,699,236,271
+Colegio sagrado corazon,719,573,660,997,952,931,947
+Colegio sagrado corazon,993,986,478,491,769,938,946
+Colegio Santa Maria de Maipu,951,850,400,896,663,187,220
+Colegio sagrado corazon,807,517,823,793,847,910,937
+Colegio torreon,698,998,777,994,849,734,770
+Instituto portaleano,761,890,592,420,966,969,1000
+Colegio sagrado corazon,995,735,999,849,823,626,643
+Instituto portaleano,846,933,797,611,707,297,325
+Colegio Pedro de Valdivia,775,613,841,746,696,969,1000
+Colegio torreon,968,873,422,905,739,885,918
+Colegio Pedro de Valdivia,745,906,407,951,704,151,175
+Colegio sagrado corazon,703,559,400,740,652,557,580
+Colegio sagrado corazon,900,759,607,892,686,333,352
+Colegio Santa Maria de Maipu,951,882,944,414,733,692,698
+Colegio Santa Maria de Maipu,753,500,403,995,700,972,1000
+Colegio Pedro de Valdivia,943,979,514,752,832,659,679
+Colegio sagrado corazon,670,675,828,677,736,931,958
+Colegio sagrado corazon,750,869,922,779,750,342,365
+Colegio torreon,915,650,432,687,895,509,523
+Instituto portaleano,803,566,502,621,897,478,518
+Colegio sagrado corazon,653,660,850,844,851,462,471
+Colegio Pedro de Valdivia,703,735,493,753,677,905,944
+Instituto portaleano,703,580,688,450,733,616,652
+Colegio sagrado corazon,674,714,610,405,844,856,903
+Instituto portaleano,821,553,616,777,988,109,127
+Instituto portaleano,893,955,421,591,810,648,657
+Colegio torreon,779,819,553,920,970,608,646
+Colegio Santa Maria de Maipu,883,679,454,769,715,337,339
+Colegio Santa Maria de Maipu,793,735,758,655,879,142,167
+Colegio Pedro de Valdivia,804,953,905,616,975,905,921
+Colegio sagrado corazon,786,525,820,455,967,979,980
+Colegio Santa Maria de Maipu,865,846,561,448,784,953,953
